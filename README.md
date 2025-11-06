@@ -2,4 +2,4 @@ Resource Pack Merge for the OSRS Runelite Plugin "Resource packs" which contains
 
 This is not an original creation, as stated, it's just a merger of elements from different resource packs made for personal use.
 
-![1](Reademe_image/photo) 
+![1](./Reademe_image/photo.png) 
